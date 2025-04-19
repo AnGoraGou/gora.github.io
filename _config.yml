@@ -1,0 +1,5 @@
+title: gora
+description: "Reflections on intelligence, abstraction, and the structure of thought."
+markdown: kramdown
+theme: minima
+baseurl: ""
